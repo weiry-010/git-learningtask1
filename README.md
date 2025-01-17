@@ -16,6 +16,7 @@ Ran Wei
 
 [Mangoes](https://en.wikipedia.org/wiki/Mango) are delicious.
 
+Image of kangaroo from Wikipedia
 ![Kangaroo](https://upload.wikimedia.org/wikipedia/commons/2/22/Kangur.rudy.drs.jpg)
 
 | 1 | 2 | 3 |
