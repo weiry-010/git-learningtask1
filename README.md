@@ -16,7 +16,7 @@ Ran Wei
 
 [Mangoes](https://en.wikipedia.org/wiki/Mango) are delicious.
 
-![Image of mango](https://upload.wikimedia.org/wikipedia/commons/7/74/Mangos_-_single_and_halved.jpg)
+![Image of mango](https://upload.wikimedia.org/wikipedia/commons/f/fb/Carabao_mangoes_%28Philippines%29.jpg)
 
 | 1 | 2 | 3 |
 |---|---|---|
